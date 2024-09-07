@@ -1,1 +1,1 @@
-# lab-jupyter-notebok
+# Hands-on Lab: Create Your Jupyter Notebook
